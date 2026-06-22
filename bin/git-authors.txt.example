@@ -1,0 +1,3 @@
+# 追加で自分のコミットとみなすメール（1行1件）
+# cp git-authors.txt.example git-authors.txt して編集
+# user@example.com

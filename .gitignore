@@ -1,0 +1,4 @@
+bin/last-git-*.txt
+10_Daily/*.md
+!10_Daily/fig*.md
+!.gitkeep
