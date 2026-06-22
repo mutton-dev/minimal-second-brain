@@ -50,7 +50,6 @@ Claude Code からは:
 │   ├── daily-target-dates.sh
 │   ├── get-pc-name.sh
 │   └── setup-fixture.sh
-├── docs/figures/          # Zenn 記事用スクショ（画像ホストのみ）
 └── fixture/demo-project/  # サンプル git リポ（2コミット）
 ```
 
